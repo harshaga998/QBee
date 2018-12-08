@@ -6,7 +6,7 @@ Administration
 Hostel
 Transportation.
 
-#Contributors:
+# Contributors:
 
 Jagrit Varshney
 Ishan Kulshestha
