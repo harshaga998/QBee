@@ -1,14 +1,14 @@
 # QBee
 This bot is specifically made to resolve the common issues and queries of a first year students at GLA University, Mathura. Bot can answer to the queries related to the four sections mentioned below:
 
-Academics
-Administration
-Hostel
-Transportation.
+1. Academics
+2. Administration
+3. Hostel
+4. Transportation.
 
 # Contributors:
 
-Jagrit Varshney
-Ishan Kulshestha
-Devanshu Jindal
-Harsh Agarwal
+1. Jagrit Varshney
+2. Ishan Kulshestha
+3. Devanshu Jindal
+4. Harsh Agarwal
